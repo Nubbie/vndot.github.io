@@ -21,6 +21,8 @@ VNDOT is created by GS clan from Vietnam. See us playing in Oceania server.
 VNDOT was used privately by GS clan but now we decided to public it
 (full feature version). You can get it by clicking on download links above.
 
+Read [How to][how-to] to install and use the extension.
+
 ### How can I contribute to VNDOT?
 
 We are going to open source VNDOT extension, that means every one can contribute
@@ -49,8 +51,7 @@ Getting started by clicking [here][vndot-github].
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
 
 [vndot-github]: https://github.com/vndot
+[how-to]: /vndot/blog/2016/01/05/how-to.html
