@@ -4,7 +4,7 @@ layout: default
 
 ### What is VNDOT
 
-VNDOT is the most powerful, beautiful and lightweight Agar.io extension. VNDOT is
+VNDOT is the most powerful, smooth and lightweight Agar.io extension. VNDOT is
 built to help team playing together easily in party mode.
 
 VNDOT is created by GS clan from Vietnam. See us playing in Oceania server.
